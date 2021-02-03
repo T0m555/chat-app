@@ -8,10 +8,12 @@ width: 300px;
 height: 100vh;
 }
 
-.chat{
-  background-color: #ffffff;
-  width: 100vw - 300px;
+.chat {
+  background-color: #FFFFFF;
+  width: calc(100vw - 300px);
 }
+
+
 
 .side-bar-header {
   height: 100px;
